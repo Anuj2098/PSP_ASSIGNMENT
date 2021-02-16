@@ -16,7 +16,8 @@ for i in range(flip):
     else:
         print("Tails")
         tails+=1
-
+k=heads/flip
+l=tails/flip
 print("The results are :")
-print("Heads",heads)
-print("Tails",tails)
+print("prob. of Heads:",k)
+print("prob. of Tails:",l)

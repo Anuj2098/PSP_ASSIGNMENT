@@ -5,17 +5,17 @@ Type "copyright", "credits" or "license()" for more information.
 Assingment_2 M.Tech CS
 Sample space={Heads, Tails}
 how many times, you want to toss the coin:10
-Heads
-Heads
+Tails
+Tails
+Tails
 Tails
 Heads
 Heads
-Tails
 Heads
 Heads
 Heads
 Tails
 The results are :
-Heads 7
-Tails 3
+prob. of Heads: 0.5
+prob. of Tails: 0.5
 >>> 
